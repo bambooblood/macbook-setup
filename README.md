@@ -27,6 +27,15 @@ eval "$(starship init zsh)"
 
 1. Download and install [Docker Desktop](https://www.docker.com/)
 
+### Homebrew
+
+1. Install [Homebrew](https://brew.sh/)
+
+### Neovim
+
+1. Install [Neovim](https://neovim.io/)
+2. Follow [Neovim Kickstart](https://github.com/nvim-lua/kickstart.nvim) instructions
+
 ### Pyenv
 
 1. Download and install [pyenv](https://github.com/pyenv/pyenv)
